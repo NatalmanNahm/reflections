@@ -1,7 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
+	response:it creates a .git file. that where you keep track of your file history.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	response:staging hosts the changes yet to be committed the working area is where you have your file store ready to be committed. Repository is where you add the committed file that were temporarily stored in the staging area.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
